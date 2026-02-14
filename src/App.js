@@ -35,7 +35,7 @@ const Portfolio = () => {
 
                     {/* כפתור הורדת קורות חיים מעוצב */}
                     <a
-                        href="/Amit_Ginzberg_CV.pdf"
+                        href="/AG cv.pdf"
                         download
                         className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full font-bold transition-all shadow-lg hover:shadow-blue-500/20 flex items-center gap-2"
                     >
@@ -53,7 +53,7 @@ const Portfolio = () => {
                         <a href="https://linkedin.com/in/amitginz" target="_blank" rel="noreferrer" className="text-slate-400 hover:text-white transition-colors">
                             <Linkedin size={28} />
                         </a>
-                        <a href="mailto:amit@example.com" className="text-slate-400 hover:text-white transition-colors">
+                        <a href="mailto:amitginz@gmail.com" className="text-slate-400 hover:text-white transition-colors">
                             <Mail size={28} />
                         </a>
                     </div>
